@@ -1,0 +1,2 @@
+# comprehensive-analysis-of-genomic-data-across-multiple-species
+This project analyzes genomic data across multiple species, focusing on genome sizes, chromosome details, and nucleotide composition. It includes simulations of sequencing coverage and an examination of GC content, offering insights into the diversity and complexity of genomic structures.
